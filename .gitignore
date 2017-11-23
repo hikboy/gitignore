@@ -1,0 +1,11 @@
+*.swp
+*.mxproject
+*.o
+*.d
+*.bin
+*.axf
+*.crf
+*.htm
+*.iex
+*.map
+*.dep
